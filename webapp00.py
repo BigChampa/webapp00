@@ -8,7 +8,7 @@ st.title("Shinra tensei")
 st.header("Cabeçalho")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("https://carrosbemmontados.com.br/wp-content/webp-express/webp-images/uploads/2024/05/top-bmw-cars.png.webp")
+st.subheader("sub")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
